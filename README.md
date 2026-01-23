@@ -8,6 +8,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 - Two Pointers
 - String
 - Hashing
+- Matrix
+- Greedy
 
 ## Goals
 - Improve problem-solving skills
