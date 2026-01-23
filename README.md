@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
