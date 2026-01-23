@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,13 +31,27 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
