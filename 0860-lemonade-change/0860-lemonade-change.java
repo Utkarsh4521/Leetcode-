@@ -1,31 +1,31 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        ArrayList <Integer> al= new ArrayList<>();
-        for(int i=0;i<bills.length;i++){
-            if(bills[i]==5){
-                al.add(5);
-            }
-            else if(bills[i]==10){
-                al.add(10);
-                if(al.remove(Integer.valueOf(5))!= true){
+        int five=0;
+        int ten=0;
+        for(int bill:bills){
+            if(bill==5) five++;
+            else if(bill==10){
+                if(five>0) {
+                    five--;
+                    ten++;
+                }
+                else{
                     return false;
                 }
             }
             else{
-                if (al.contains(10) && al.contains(5)) {
-                    al.remove(Integer.valueOf(10));
-                    al.remove(Integer.valueOf(5));
+                if(five>0 && ten>0){
+                    five--;
+                    ten--;
                 }
-                else if (Collections.frequency(al, 5) >= 3) {
-                    al.remove(Integer.valueOf(5));
-                    al.remove(Integer.valueOf(5));
-                    al.remove(Integer.valueOf(5));
+                else if(five>=3){
+                    five-=3;
                 }
-                else {
+                else{
                     return false;
                 }
             }
         }
-    return true;   
+        return true;   
     }
 }
