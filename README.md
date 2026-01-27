@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/3110-score-of-a-string) |
@@ -104,4 +105,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
