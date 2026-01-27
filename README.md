@@ -109,4 +109,16 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
