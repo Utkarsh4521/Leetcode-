@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3110-score-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
@@ -124,6 +127,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Recursion
 |  |
