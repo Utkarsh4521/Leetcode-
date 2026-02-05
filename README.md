@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
@@ -158,6 +160,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 ## Enumeration
 |  |
