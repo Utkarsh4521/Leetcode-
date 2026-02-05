@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
@@ -111,6 +112,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
 | ------- |
