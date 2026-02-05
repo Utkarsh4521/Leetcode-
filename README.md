@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Trie
 |  |
