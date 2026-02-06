@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -97,6 +98,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -170,4 +172,5 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
