@@ -173,4 +173,16 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
