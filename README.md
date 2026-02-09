@@ -103,6 +103,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,12 +179,19 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
