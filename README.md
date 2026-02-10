@@ -88,6 +88,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0050-powx-n](https://github.com/Utkarsh4521/Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
@@ -131,6 +132,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -165,6 +167,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Utkarsh4521/Leetcode-/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,4 +210,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
