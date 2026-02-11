@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 ## Enumeration
 |  |
