@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 | [0686-repeated-string-match](https://github.com/Utkarsh4521/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
@@ -100,6 +102,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
