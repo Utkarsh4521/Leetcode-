@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -223,4 +225,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Utkarsh4521/Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
