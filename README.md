@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -111,6 +113,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
