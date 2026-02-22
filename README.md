@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/Utkarsh4521/Leetcode-/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Utkarsh4521/Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
