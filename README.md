@@ -249,4 +249,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
