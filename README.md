@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
