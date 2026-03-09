@@ -257,6 +257,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [1148-article-views-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Utkarsh4521/Leetcode-/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/Utkarsh4521/Leetcode-/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Utkarsh4521/Leetcode-/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Utkarsh4521/Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Utkarsh4521/Leetcode-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
