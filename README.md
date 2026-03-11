@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
