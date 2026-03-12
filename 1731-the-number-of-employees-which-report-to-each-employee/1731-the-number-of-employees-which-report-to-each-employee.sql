@@ -3,3 +3,4 @@ select e.employee_id , e.name,count(m.reports_to) as reports_count,round(AVG(m.a
 from Employees e join Employees m
 on e.employee_id = m.reports_to
 group by m.reports_to
+order by e.employee_id
