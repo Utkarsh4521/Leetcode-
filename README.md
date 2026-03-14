@@ -248,6 +248,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Utkarsh4521/Leetcode-/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Utkarsh4521/Leetcode-/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Utkarsh4521/Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Utkarsh4521/Leetcode-/tree/master/0584-find-customer-referee) |
