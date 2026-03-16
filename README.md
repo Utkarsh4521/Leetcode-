@@ -277,6 +277,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [1321-restaurant-growth](https://github.com/Utkarsh4521/Leetcode-/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Utkarsh4521/Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Utkarsh4521/Leetcode-/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/Utkarsh4521/Leetcode-/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Utkarsh4521/Leetcode-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Utkarsh4521/Leetcode-/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Utkarsh4521/Leetcode-/tree/master/1683-invalid-tweets) |
