@@ -252,6 +252,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Utkarsh4521/Leetcode-/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Utkarsh4521/Leetcode-/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Utkarsh4521/Leetcode-/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Utkarsh4521/Leetcode-/tree/master/0197-rising-temperature) |
