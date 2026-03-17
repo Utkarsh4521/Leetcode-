@@ -255,6 +255,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0176-second-highest-salary](https://github.com/Utkarsh4521/Leetcode-/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Utkarsh4521/Leetcode-/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Utkarsh4521/Leetcode-/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Utkarsh4521/Leetcode-/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Utkarsh4521/Leetcode-/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Utkarsh4521/Leetcode-/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Utkarsh4521/Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
