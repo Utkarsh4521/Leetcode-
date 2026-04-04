@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Utkarsh4521/Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
