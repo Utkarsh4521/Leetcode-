@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Utkarsh4521/Leetcode-/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -316,5 +318,10 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
