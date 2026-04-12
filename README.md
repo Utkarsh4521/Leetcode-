@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
@@ -79,6 +80,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
@@ -319,6 +321,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0021-merge-two-sorted-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
