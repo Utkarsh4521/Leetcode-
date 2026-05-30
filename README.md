@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -226,6 +228,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -255,6 +258,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
