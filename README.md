@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0189-rotate-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0686-repeated-string-match](https://github.com/Utkarsh4521/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
