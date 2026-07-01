@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
+| [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -71,6 +72,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
