@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
@@ -241,6 +243,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
