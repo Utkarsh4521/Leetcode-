@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
+| [1480-running-sum-of-1d-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -278,6 +279,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
