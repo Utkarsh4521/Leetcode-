@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
