@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0001-two-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
@@ -113,6 +115,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Utkarsh4521/Leetcode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Utkarsh4521/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -150,6 +153,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
