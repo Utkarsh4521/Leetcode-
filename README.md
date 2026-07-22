@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Utkarsh4521/Leetcode-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
@@ -281,6 +282,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Utkarsh4521/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Utkarsh4521/Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
