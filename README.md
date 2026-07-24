@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Utkarsh4521/Leetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
@@ -160,6 +162,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0217-contains-duplicate](https://github.com/Utkarsh4521/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -191,6 +194,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -222,6 +226,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Utkarsh4521/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -349,6 +354,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -367,4 +373,12 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Utkarsh4521/Leetcode-/tree/master/0303-range-sum-query-immutable) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
