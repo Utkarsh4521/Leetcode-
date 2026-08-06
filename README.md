@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Utkarsh4521/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
