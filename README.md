@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0001-two-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Utkarsh4521/Leetcode-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Utkarsh4521/Leetcode-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Utkarsh4521/Leetcode-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
