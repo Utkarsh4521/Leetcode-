@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0525-contiguous-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
@@ -137,6 +138,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Utkarsh4521/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarsh4521/Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
@@ -366,6 +368,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
