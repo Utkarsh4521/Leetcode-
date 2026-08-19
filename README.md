@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0242-valid-anagram](https://github.com/Utkarsh4521/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Utkarsh4521/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -138,6 +139,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Utkarsh4521/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
@@ -376,6 +378,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Utkarsh4521/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
