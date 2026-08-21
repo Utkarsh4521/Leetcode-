@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Utkarsh4521/Leetcode-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Utkarsh4521/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0001-two-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Utkarsh4521/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
@@ -200,6 +202,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Utkarsh4521/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
