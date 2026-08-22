@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0525-contiguous-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Utkarsh4521/Leetcode-/tree/master/0724-find-pivot-index) |
@@ -86,6 +87,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
@@ -187,6 +189,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -195,6 +198,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarsh4521/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Utkarsh4521/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
@@ -401,6 +405,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -423,4 +428,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
