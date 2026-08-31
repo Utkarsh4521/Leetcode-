@@ -154,6 +154,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0686-repeated-string-match](https://github.com/Utkarsh4521/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarsh4521/Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -412,6 +413,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
