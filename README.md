@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [3379-transformed-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3379-transformed-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Utkarsh4521/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Utkarsh4521/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -180,6 +182,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0036-valid-sudoku](https://github.com/Utkarsh4521/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
@@ -439,4 +443,8 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
