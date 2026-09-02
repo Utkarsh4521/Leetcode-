@@ -136,6 +136,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh4521/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
@@ -414,6 +415,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -438,6 +440,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
