@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh4521/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Utkarsh4521/Leetcode-/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
@@ -419,6 +420,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -447,6 +449,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Breadth-First Search
 |  |
