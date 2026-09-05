@@ -420,6 +420,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Utkarsh4521/Leetcode-/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +428,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Utkarsh4521/Leetcode-/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Utkarsh4521/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 ## Bucket Sort
 |  |
