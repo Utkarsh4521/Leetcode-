@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0202-happy-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -155,6 +157,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarsh4521/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Utkarsh4521/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Utkarsh4521/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0796-rotate-string) |
@@ -302,6 +305,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarsh4521/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarsh4521/Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
