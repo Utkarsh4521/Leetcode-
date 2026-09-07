@@ -144,6 +144,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Utkarsh4521/Leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Utkarsh4521/Leetcode-/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Utkarsh4521/Leetcode-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Utkarsh4521/Leetcode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Utkarsh4521/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -246,6 +247,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Utkarsh4521/Leetcode-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Utkarsh4521/Leetcode-/tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
