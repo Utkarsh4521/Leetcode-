@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Utkarsh4521/Leetcode-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Utkarsh4521/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
@@ -429,6 +430,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0155-min-stack](https://github.com/Utkarsh4521/Leetcode-/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Utkarsh4521/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -459,6 +461,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Utkarsh4521/Leetcode-/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
 | ------- |
