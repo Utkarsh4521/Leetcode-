@@ -422,6 +422,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0021-merge-two-sorted-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh4521/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh4521/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
