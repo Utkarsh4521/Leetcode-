@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0860-lemonade-change](https://github.com/Utkarsh4521/Leetcode-/tree/master/0860-lemonade-change) |
 | [1089-duplicate-zeros](https://github.com/Utkarsh4521/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Utkarsh4521/Leetcode-/tree/master/1200-minimum-absolute-difference) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Utkarsh4521/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0525-contiguous-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh4521/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Utkarsh4521/Leetcode-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Utkarsh4521/Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -256,6 +259,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0091-decode-ways](https://github.com/Utkarsh4521/Leetcode-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/0097-interleaving-string) |
 | [0509-fibonacci-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0509-fibonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarsh4521/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -317,6 +321,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsh4521/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Utkarsh4521/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Utkarsh4521/Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utkarsh4521/Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
