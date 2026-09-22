@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0053-maximum-subarray](https://github.com/Utkarsh4521/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh4521/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh4521/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Utkarsh4521/Leetcode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0179-largest-number) |
@@ -196,6 +197,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Utkarsh4521/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -306,6 +308,7 @@ This repository contains my solutions to LeetCode problems written in JAVA Langu
 | [0022-generate-parentheses](https://github.com/Utkarsh4521/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Utkarsh4521/Leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarsh4521/Leetcode-/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Utkarsh4521/Leetcode-/tree/master/0090-subsets-ii) |
 | [0306-additive-number](https://github.com/Utkarsh4521/Leetcode-/tree/master/0306-additive-number) |
 ## Enumeration
 |  |
